@@ -15,4 +15,4 @@ Run both the Applications on different port no
 Use any browser to navigate to the application
 </li>
 </ul>
-<footer style="color:red;">Note: missing .sql file</footer>
+<u>Note:</u><span>missing .sql file</span>
